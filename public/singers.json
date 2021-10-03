@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "name": "Azom khan",
+      "band": "Uccharon",
+      "age": 71,
+      "album": "saleka-maleka",
+      "image": "https://i.ibb.co/rvvB4hh/azomKhan.jpg",
+      "born": 1950,
+      "charge": 100000,
+      "catagory": "rock"
+    },
+    {
+      "id": 2,
+      "name": "James",
+      "band": "Nogor Baul",
+      "age": 55,
+      "album": "Ghuru",
+      "image": "https://i.ibb.co/KWYVkXb/James.jpg",
+      "born": 1966,
+      "charge": 400000,
+      "catagory": "Urban-rock"
+    },
+    {
+      "id": 3,
+      "name": "Ayub Bacchu",
+      "band": "LRB",
+      "age": 56,
+      "album": "Ghumonto Shohore",
+      "image": "https://i.ibb.co/mzmcvqr/ayub-bacchu.jpg",
+      "born": 1950,
+      "charge": 300000,
+      "catagory": "rock-metal"
+    },
+    {
+      "id": 4,
+      "name": "Tanjir Tuhin",
+      "band": "Avash",
+      "age": 47,
+      "album": "Bastob",
+      "image": "https://i.ibb.co/tmvzyVM/Tuhin.jpg",
+      "born": 1974,
+      "charge": 150000,
+      "catagory": "soft-metal"
+    },
+    {
+      "id": 5,
+      "name": "Salehin Sumon",
+      "band": "Aurthohin",
+      "age": 48,
+      "album": "Oshomapto",
+      "image": "https://i.ibb.co/gy9tZdx/sumon.jpg",
+      "born": 1973,
+      "charge": 80000,
+      "catagory": "metal"
+    },
+    {
+      "id": 6,
+      "name": "Linkon D'Costa",
+      "band": "Artcell",
+      "age": 45,
+      "album": "Oniket Prantor",
+      "image": "https://i.ibb.co/qJfhT7n/linkon.jpg",
+      "born": 1976,
+      "charge": 70000,
+      "catagory": "Hard-metal"
+    },
+    {
+      "id": 7,
+      "name": "Sunjoy",
+      "band": "Warfaze",
+      "age": 51,
+      "album": "Obak Balobasha",
+      "image": "https://i.ibb.co/3vZjydd/images.jpg",
+      "born": 1970,
+      "charge": 120000,
+      "catagory": "deth-metal"
+    },
+    {
+      "id": 8,
+      "name": "Partho Barua",
+      "band": "Solse",
+      "age": 56,
+      "album": "E Emon Porichoy",
+      "image": "https://i.ibb.co/bbgjbxt/partho.jpg",
+      "born": 1965,
+      "charge": 60000,
+      "catagory": "soft-music"
+    },
+    {
+      "id": 9,
+      "name": "Shafin Ahmed",
+      "band": "miles",
+      "age": 60,
+      "album": "Neela",
+      "image": "https://i.ibb.co/bgbMcwJ/shafin.jpg",
+      "born": 1961,
+      "charge": 120000,
+      "catagory": "pop"
+    },
+    {
+      "id": 10,
+      "name": "Zia",
+      "band": "Shironamhin",
+      "age": 45,
+      "album": "Hashimukh",
+      "image": "https://i.ibb.co/fDSWPYG/zia.jpg",
+      "born": 1976,
+      "charge": 6000,
+      "catagory": "soft-rock"
+    },
+    {
+      "id": 11,
+      "name": "Tahsan khan",
+      "band": "Black",
+      "age": 42,
+      "album": "Alo",
+      "image": "https://i.ibb.co/mC9JhCc/tahsan.jpg",
+      "born": 1979,
+      "charge": 100000,
+      "catagory": "rock"
+    },
+    {
+      "id": 12,
+      "name": "Rahul",
+      "band": "Jholer Gaan",
+      "age": 50,
+      "album": "Emon-Jodi-Hoto",
+      "image": "https://i.ibb.co/g7FNfZY/rahuljpg.jpg",
+      "born": 1961,
+      "charge": 60000,
+      "catagory": "Folk"
+    },
+    {
+      "id": 13,
+      "name": "Sheikh Ishtiaq",
+      "band": "Shironamhin",
+      "age": 33,
+      "album": "Ei Obelay",
+      "image": "https://i.ibb.co/HhJhn24/ishtiaq.jpg",
+      "born": 1988,
+      "charge": 55000,
+      "catagory": "rock-metal"
+    },
+    {
+      "id": 14,
+      "name": "Rafa Muqtadir",
+      "band": "Cryptic Fate",
+      "age": 34,
+      "album": "Cholo Bangladesh",
+      "image": "https://i.ibb.co/1bK0MGW/rafa.jpg",
+      "born": 1987,
+      "charge": 70000,
+      "catagory": "metal"
+    },
+    {
+      "id": 15,
+      "name": "Arnob",
+      "band": "Bangla",
+      "age": 43,
+      "album": "Tomar Jonno",
+      "image": "https://i.ibb.co/QcDcG8H/arnob.jpg",
+      "born": 1987,
+      "charge": 70000,
+      "catagory": "metal"
+    }
+  ]

@@ -1,0 +1,35 @@
+.music-star img {
+  width: 200px;
+  border-radius: 100px;
+  /* transform: rotate(20deg); */
+  transition: transform 1s ease-out;
+}
+.music-star img:hover{
+  /* width: 250px; */
+  transform:scale(1.1);
+  overflow:auto;
+  
+}
+.music-star {
+  text-align: center;
+  border: 2px solid rgb(116, 113, 113);
+  margin: 10px;
+  padding: 15px;
+  background-color: rgb(105, 173, 175);
+  border-radius: 10px;
+  
+}
+.add-btn{
+    background-color: rgb(206, 248, 248);
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+.add-btn:hover{
+    background-color: goldenrod;
+    color:darkblue;
+}
+.name:hover{
+    color: darkblue;
+}
